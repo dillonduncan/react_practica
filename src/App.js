@@ -1,10 +1,13 @@
-import './App.css';
-import { User } from './components/User';
+import { Card } from './components/Card/Card';
+import { User } from './components/User/User';
 
 function App() {
+
+
   return (
     <div >
-      <User/>
+      <User nombre="Dillon Duncan" edad={18} nacionalidad="Colombiana"/>
+      <Card/>    
     </div>
   );
 }
