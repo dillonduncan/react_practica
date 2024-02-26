@@ -1,0 +1,352 @@
+[
+    {
+        "car_make": "Hyundai",
+        "car_model": "Accent",
+        "car_model_year": 2013,
+        "image_car_random": "http://dummyimage.com/191x100.png/ff4444/ffffff",
+        "id_car": 1
+    },
+    {
+        "car_make": "Kia",
+        "car_model": "Sportage",
+        "car_model_year": 1966,
+        "image_car_random": "http://dummyimage.com/231x100.png/cc0000/ffffff",
+        "id_car": 2
+    },
+    {
+        "car_make": "Chevrolet",
+        "car_model": "Sportvan G20",
+        "car_model_year": 1964,
+        "image_car_random": "http://dummyimage.com/238x100.png/dddddd/000000",
+        "id_car": 3
+    },
+    {
+        "car_make": "BMW",
+        "car_model": "7 Series",
+        "car_model_year": 2002,
+        "image_car_random": "http://dummyimage.com/168x100.png/ff4444/ffffff",
+        "id_car": 4
+    },
+    {
+        "car_make": "Buick",
+        "car_model": "LaCrosse",
+        "car_model_year": 1984,
+        "image_car_random": "http://dummyimage.com/247x100.png/dddddd/000000",
+        "id_car": 5
+    },
+    {
+        "car_make": "Ford",
+        "car_model": "F250",
+        "car_model_year": 1977,
+        "image_car_random": "http://dummyimage.com/248x100.png/dddddd/000000",
+        "id_car": 6
+    },
+    {
+        "car_make": "Audi",
+        "car_model": "100",
+        "car_model_year": 2009,
+        "image_car_random": "http://dummyimage.com/229x100.png/cc0000/ffffff",
+        "id_car": 7
+    },
+    {
+        "car_make": "Pontiac",
+        "car_model": "Grand Am",
+        "car_model_year": 1977,
+        "image_car_random": "http://dummyimage.com/123x100.png/dddddd/000000",
+        "id_car": 8
+    },
+    {
+        "car_make": "Saab",
+        "car_model": "9-3",
+        "car_model_year": 2022,
+        "image_car_random": "http://dummyimage.com/179x100.png/ff4444/ffffff",
+        "id_car": 9
+    },
+    {
+        "car_make": "Chevrolet",
+        "car_model": "Silverado 1500",
+        "car_model_year": 1956,
+        "image_car_random": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+        "id_car": 10
+    },
+    {
+        "car_make": "Chevrolet",
+        "car_model": "G-Series G30",
+        "car_model_year": 1969,
+        "image_car_random": "http://dummyimage.com/245x100.png/dddddd/000000",
+        "id_car": 11
+    },
+    {
+        "car_make": "Jeep",
+        "car_model": "Liberty",
+        "car_model_year": 1974,
+        "image_car_random": "http://dummyimage.com/151x100.png/5fa2dd/ffffff",
+        "id_car": 12
+    },
+    {
+        "car_make": "Land Rover",
+        "car_model": "Discovery",
+        "car_model_year": 1986,
+        "image_car_random": "http://dummyimage.com/141x100.png/dddddd/000000",
+        "id_car": 13
+    },
+    {
+        "car_make": "Mercury",
+        "car_model": "Grand Marquis",
+        "car_model_year": 2006,
+        "image_car_random": "http://dummyimage.com/237x100.png/ff4444/ffffff",
+        "id_car": 14
+    },
+    {
+        "car_make": "Isuzu",
+        "car_model": "VehiCROSS",
+        "car_model_year": 1992,
+        "image_car_random": "http://dummyimage.com/101x100.png/cc0000/ffffff",
+        "id_car": 15
+    },
+    {
+        "car_make": "Chevrolet",
+        "car_model": "Metro",
+        "car_model_year": 1965,
+        "image_car_random": "http://dummyimage.com/237x100.png/dddddd/000000",
+        "id_car": 16
+    },
+    {
+        "car_make": "Ford",
+        "car_model": "Explorer Sport Trac",
+        "car_model_year": 1995,
+        "image_car_random": "http://dummyimage.com/215x100.png/5fa2dd/ffffff",
+        "id_car": 17
+    },
+    {
+        "car_make": "Mercury",
+        "car_model": "Sable",
+        "car_model_year": 2021,
+        "image_car_random": "http://dummyimage.com/191x100.png/cc0000/ffffff",
+        "id_car": 18
+    },
+    {
+        "car_make": "Plymouth",
+        "car_model": "Grand Voyager",
+        "car_model_year": 1981,
+        "image_car_random": "http://dummyimage.com/216x100.png/dddddd/000000",
+        "id_car": 19
+    },
+    {
+        "car_make": "Volkswagen",
+        "car_model": "Scirocco",
+        "car_model_year": 1956,
+        "image_car_random": "http://dummyimage.com/146x100.png/dddddd/000000",
+        "id_car": 20
+    },
+    {
+        "car_make": "Chevrolet",
+        "car_model": "Malibu",
+        "car_model_year": 1952,
+        "image_car_random": "http://dummyimage.com/122x100.png/5fa2dd/ffffff",
+        "id_car": 21
+    },
+    {
+        "car_make": "Mercedes-Benz",
+        "car_model": "GL-Class",
+        "car_model_year": 1977,
+        "image_car_random": "http://dummyimage.com/201x100.png/ff4444/ffffff",
+        "id_car": 22
+    },
+    {
+        "car_make": "Lexus",
+        "car_model": "ES",
+        "car_model_year": 2005,
+        "image_car_random": "http://dummyimage.com/211x100.png/5fa2dd/ffffff",
+        "id_car": 23
+    },
+    {
+        "car_make": "GMC",
+        "car_model": "Savana",
+        "car_model_year": 1995,
+        "image_car_random": "http://dummyimage.com/124x100.png/dddddd/000000",
+        "id_car": 24
+    },
+    {
+        "car_make": "Dodge",
+        "car_model": "Daytona",
+        "car_model_year": 2000,
+        "image_car_random": "http://dummyimage.com/246x100.png/dddddd/000000",
+        "id_car": 25
+    },
+    {
+        "car_make": "Dodge",
+        "car_model": "Ram 3500 Club",
+        "car_model_year": 1971,
+        "image_car_random": "http://dummyimage.com/146x100.png/cc0000/ffffff",
+        "id_car": 26
+    },
+    {
+        "car_make": "Subaru",
+        "car_model": "Leone",
+        "car_model_year": 2009,
+        "image_car_random": "http://dummyimage.com/175x100.png/5fa2dd/ffffff",
+        "id_car": 27
+    },
+    {
+        "car_make": "Jeep",
+        "car_model": "Liberty",
+        "car_model_year": 1985,
+        "image_car_random": "http://dummyimage.com/142x100.png/ff4444/ffffff",
+        "id_car": 28
+    },
+    {
+        "car_make": "Plymouth",
+        "car_model": "Neon",
+        "car_model_year": 1962,
+        "image_car_random": "http://dummyimage.com/151x100.png/ff4444/ffffff",
+        "id_car": 29
+    },
+    {
+        "car_make": "Pontiac",
+        "car_model": "Grand Prix",
+        "car_model_year": 1986,
+        "image_car_random": "http://dummyimage.com/174x100.png/5fa2dd/ffffff",
+        "id_car": 30
+    },
+    {
+        "car_make": "Chevrolet",
+        "car_model": "Volt",
+        "car_model_year": 2004,
+        "image_car_random": "http://dummyimage.com/108x100.png/dddddd/000000",
+        "id_car": 31
+    },
+    {
+        "car_make": "Lexus",
+        "car_model": "ES",
+        "car_model_year": 2017,
+        "image_car_random": "http://dummyimage.com/221x100.png/dddddd/000000",
+        "id_car": 32
+    },
+    {
+        "car_make": "Mazda",
+        "car_model": "Miata MX-5",
+        "car_model_year": 2012,
+        "image_car_random": "http://dummyimage.com/183x100.png/ff4444/ffffff",
+        "id_car": 33
+    },
+    {
+        "car_make": "Ford",
+        "car_model": "F150",
+        "car_model_year": 2018,
+        "image_car_random": "http://dummyimage.com/239x100.png/dddddd/000000",
+        "id_car": 34
+    },
+    {
+        "car_make": "Mitsubishi",
+        "car_model": "Eclipse",
+        "car_model_year": 1972,
+        "image_car_random": "http://dummyimage.com/159x100.png/ff4444/ffffff",
+        "id_car": 35
+    },
+    {
+        "car_make": "Volkswagen",
+        "car_model": "Cabriolet",
+        "car_model_year": 1959,
+        "image_car_random": "http://dummyimage.com/237x100.png/cc0000/ffffff",
+        "id_car": 36
+    },
+    {
+        "car_make": "Acura",
+        "car_model": "RL",
+        "car_model_year": 1970,
+        "image_car_random": "http://dummyimage.com/167x100.png/dddddd/000000",
+        "id_car": 37
+    },
+    {
+        "car_make": "GMC",
+        "car_model": "Yukon XL 1500",
+        "car_model_year": 1966,
+        "image_car_random": "http://dummyimage.com/118x100.png/cc0000/ffffff",
+        "id_car": 38
+    },
+    {
+        "car_make": "Jaguar",
+        "car_model": "XJ",
+        "car_model_year": 1988,
+        "image_car_random": "http://dummyimage.com/202x100.png/5fa2dd/ffffff",
+        "id_car": 39
+    },
+    {
+        "car_make": "Audi",
+        "car_model": "S6",
+        "car_model_year": 2003,
+        "image_car_random": "http://dummyimage.com/216x100.png/cc0000/ffffff",
+        "id_car": 40
+    },
+    {
+        "car_make": "Honda",
+        "car_model": "CR-X",
+        "car_model_year": 1970,
+        "image_car_random": "http://dummyimage.com/240x100.png/cc0000/ffffff",
+        "id_car": 41
+    },
+    {
+        "car_make": "Volkswagen",
+        "car_model": "Corrado",
+        "car_model_year": 1975,
+        "image_car_random": "http://dummyimage.com/202x100.png/dddddd/000000",
+        "id_car": 42
+    },
+    {
+        "car_make": "BMW",
+        "car_model": "5 Series",
+        "car_model_year": 1984,
+        "image_car_random": "http://dummyimage.com/163x100.png/5fa2dd/ffffff",
+        "id_car": 43
+    },
+    {
+        "car_make": "Volvo",
+        "car_model": "S90",
+        "car_model_year": 1966,
+        "image_car_random": "http://dummyimage.com/145x100.png/ff4444/ffffff",
+        "id_car": 44
+    },
+    {
+        "car_make": "Mercury",
+        "car_model": "Cougar",
+        "car_model_year": 1998,
+        "image_car_random": "http://dummyimage.com/165x100.png/cc0000/ffffff",
+        "id_car": 45
+    },
+    {
+        "car_make": "Suzuki",
+        "car_model": "XL-7",
+        "car_model_year": 1989,
+        "image_car_random": "http://dummyimage.com/187x100.png/dddddd/000000",
+        "id_car": 46
+    },
+    {
+        "car_make": "Audi",
+        "car_model": "Q5",
+        "car_model_year": 2020,
+        "image_car_random": "http://dummyimage.com/226x100.png/cc0000/ffffff",
+        "id_car": 47
+    },
+    {
+        "car_make": "Subaru",
+        "car_model": "Impreza",
+        "car_model_year": 2003,
+        "image_car_random": "http://dummyimage.com/170x100.png/dddddd/000000",
+        "id_car": 48
+    },
+    {
+        "car_make": "Volkswagen",
+        "car_model": "Rabbit",
+        "car_model_year": 1963,
+        "image_car_random": "http://dummyimage.com/121x100.png/ff4444/ffffff",
+        "id_car": 49
+    },
+    {
+        "car_make": "Kia",
+        "car_model": "Sportage",
+        "car_model_year": 1979,
+        "image_car_random": "http://dummyimage.com/133x100.png/ff4444/ffffff",
+        "id_car": 50
+    }
+]

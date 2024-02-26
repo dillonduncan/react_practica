@@ -1,10 +1,9 @@
-import { Counter } from "./components/UseState/UseEffect/Counter";
-import { Text } from "./components/UseState/UseEffect/Text"; 
+import { ItemListContainer } from "./components/Productos/ItemListContainer";
+
 function App() {
   return (
     <div >
-        <Counter/>
-        <Text/>
+      <ItemListContainer/>
     </div>
   );
 }
