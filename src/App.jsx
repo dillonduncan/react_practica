@@ -1,9 +1,9 @@
-import { ItemListContainer } from "./components/Productos/ItemListContainer";
+import PokemonList from "./components/PokeApi/PokemonList";
 
 function App() {
   return (
     <div >
-      <ItemListContainer/>
+      <PokemonList/>
     </div>
   );
 }
