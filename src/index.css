@@ -1,1 +1,118 @@
+* {
+    font-family: fantasy;
+}
+.h1Titulo{
+    text-align: center;
+}
+.card {
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 300px;
+    height: 350px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 2px solid rgb(255, 0, 0);
+    box-shadow: 0 5px 5px 0 rgba(96, 96, 96, 0.5);
+}
 
+.imgPoke {
+    width: 170px;
+    height: 170px;
+}
+
+.imgPoke:hover {
+    width: 180px;
+    height: 180px;
+    z-index: 100%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(152, 152, 152, 0.5);
+
+}
+
+.card h2 {
+    margin: 0;
+    font-size: 31px;
+}
+
+.btnSigAntDiv {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 22%;
+}
+
+.btnSigAntDiv button {
+    border-color: #ff0000;
+    width: 125px;
+    height: 55px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: #fff;
+}
+
+.btnSigAntDiv button:hover {
+    cursor: pointer;
+    background-color: #ff000022;
+    box-shadow: 0 5px 5px 0 rgba(152, 152, 152, 0.5);
+
+}
+
+.btnAnterior {
+    margin-right: 20px;
+}
+
+.btnSigAntDiv button:active {
+    background-color: rgba(255, 118, 118, 0.621);
+    border-color: #fff;
+}
+
+.iptBuscarId {
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    padding-left: 10px;
+    font-size: 20px;
+    transform: translate(-8%, 250%);
+    border-color: #ff0000;
+}
+
+.iptBuscarName {
+    transform: translate(0%, 0%);
+    border-radius: 20px;
+    width: 300px;
+    padding-left: 10px;
+    height: 50px;
+    font-size: 20px;
+    border-color: #ff0000;
+}
+
+.btnBuscar {
+    height: 50px;
+    width: 80px;
+    font-size: 20px;
+    border-color: #ff0000;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: #fff;
+    transform: translate(150%, 62%);
+}
+
+.btnBuscar:hover {
+    cursor: pointer;
+    background-color: #ff000022;
+    box-shadow: 0 5px 5px 0 rgba(152, 152, 152, 0.5);
+}
+
+.divBuscador {
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    transform: translate(0,-30%);
+    width: 22%;
+}

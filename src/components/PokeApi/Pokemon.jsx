@@ -34,25 +34,28 @@ function Pokemon() {
             .then((datos) => setPokemon(datos))
     }, [id])
 
-
     return (
-        <div>{pokemon &&
-            <div>
-                <h2> {pokemon.name}</h2>
-                <img src={pokemon.sprites.front_default} alt={pokemon.name} />
-                <h3>ID: {pokemon.id}</h3>
+        <div>
+            <h1 className="h1Titulo">POKEMON</h1>
+            <div className="divBuscador"><input className="iptBuscarId" onChange={handleBuscarID} type="number" min={1} placeholder="Buscar por ID" />
                 <br />
-                {
-                    id > 1 ? <button onClick={handleAnterior}>Anterior</button> : <button disabled>Anterior</button>
-                }
-                <button onClick={handleSiguiente}>Siguiente</button>
-                <br />
-                <input onChange={handleBuscarID} type="number" min={1} placeholder="Buscar por ID" />
-                <br />
-                <input type="text" onChange={handleName} placeholder="Buscar por nombre" />
-                <button onClick={buscarName}>Buscar</button>
+                <input className="iptBuscarName" type="text" onChange={handleName} placeholder="Buscar por nombre" />
+                <button className="btnBuscar" onClick={buscarName}>Buscar</button>
             </div>
-        }
+            {pokemon &&
+                <div className="card"   >
+                    <h2> {pokemon.name}</h2>
+                    <br />
+                    <h2>ID: {pokemon.id}</h2>
+                    <img className="imgPoke" src={pokemon.sprites.front_default} alt={pokemon.name} />
+                </div>
+            }
+            <br />
+            <br />
+            <div className="btnSigAntDiv">
+                {id > 1 ? <button className="btnAnterior" onClick={handleAnterior}>Anterior</button> : <button className="btnAnterior" disabled>Anterior</button>}
+                <button className="btnSiguiente" onClick={handleSiguiente}>Siguiente</button>
+            </div>
         </div>
     )
 }
